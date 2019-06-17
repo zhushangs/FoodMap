@@ -2,4 +2,4 @@
   This webiste shows picutres of restaurants from NYC
 
 ## WhereToEAT
-  Pictures are taken by me
+  Some pictures are taken by me, and some from yelp
